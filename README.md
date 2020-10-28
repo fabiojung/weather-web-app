@@ -1,6 +1,6 @@
 # 🌦️ Weather Web App
 
-A React/Redux SPA to display the current weather conditions based on your detected geolocation.
+A React/Redux SPA to display the current weather conditions based on your geolocation.
 
 ### Requirements 
 
@@ -24,6 +24,10 @@ This App uses a free Reverse Geocoding to City API from [BigDataCloud](https://w
 **If you are running the `graphql-weather-api` on a different ip/port, open the file `constants.ts` and update the URL variable accordingly.
 
 Clone the repository to your machine and run: 
+
+#### `npm install`
+
+Installs all dependencies required to run the app locally.
 
 #### `npm start`
 
